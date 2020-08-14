@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1433f76.chunk.css",
-    "main.js": "/static/js/main.e19f40a8.chunk.js",
-    "main.js.map": "/static/js/main.e19f40a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4483ebb2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4483ebb2.js.map",
-    "static/js/2.42df7b18.chunk.js": "/static/js/2.42df7b18.chunk.js",
-    "static/js/2.42df7b18.chunk.js.map": "/static/js/2.42df7b18.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4ab6b49a9f19fa25f8cd4ec4f746430d.js": "/precache-manifest.4ab6b49a9f19fa25f8cd4ec4f746430d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.e1433f76.chunk.css.map": "/static/css/main.e1433f76.chunk.css.map",
-    "static/js/2.42df7b18.chunk.js.LICENSE.txt": "/static/js/2.42df7b18.chunk.js.LICENSE.txt"
+    "main.css": "/Viebuyus/static/css/main.e1433f76.chunk.css",
+    "main.js": "/Viebuyus/static/js/main.e19f40a8.chunk.js",
+    "main.js.map": "/Viebuyus/static/js/main.e19f40a8.chunk.js.map",
+    "runtime-main.js": "/Viebuyus/static/js/runtime-main.83a03c5a.js",
+    "runtime-main.js.map": "/Viebuyus/static/js/runtime-main.83a03c5a.js.map",
+    "static/js/2.42df7b18.chunk.js": "/Viebuyus/static/js/2.42df7b18.chunk.js",
+    "static/js/2.42df7b18.chunk.js.map": "/Viebuyus/static/js/2.42df7b18.chunk.js.map",
+    "index.html": "/Viebuyus/index.html",
+    "precache-manifest.cd858d266364daf0cb42b93405d3f629.js": "/Viebuyus/precache-manifest.cd858d266364daf0cb42b93405d3f629.js",
+    "service-worker.js": "/Viebuyus/service-worker.js",
+    "static/css/main.e1433f76.chunk.css.map": "/Viebuyus/static/css/main.e1433f76.chunk.css.map",
+    "static/js/2.42df7b18.chunk.js.LICENSE.txt": "/Viebuyus/static/js/2.42df7b18.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4483ebb2.js",
+    "static/js/runtime-main.83a03c5a.js",
     "static/js/2.42df7b18.chunk.js",
     "static/css/main.e1433f76.chunk.css",
     "static/js/main.e19f40a8.chunk.js"
